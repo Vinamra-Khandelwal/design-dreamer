@@ -1,6 +1,3 @@
-Got it! Here's the revised README file excluding Python and Streamlit:
-
----
 
 # Design Dreamer
 
